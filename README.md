@@ -57,8 +57,8 @@ After starting the project, you will see two tables:
 
   ### Table One: Yearly Crop Data
 
-  ![Yearly Crop Data Table](src/screenshots/tableone.png)
+  ![Table One Screenshot](https://github.com/Dolly172/Agriculture-Data-Analytics/raw/main/src/screenshots/TableOne.png)
 
   ### Table Two: Crop Averages between 1950-2020
 
-  ![Crop Average Table](src/screenshots/tabletwo.png)
+  ![Crop Average Table](https://github.com/Dolly172/Agriculture-Data-Analytics/raw/main/src/screenshots/TableTwo.png)
